@@ -33,8 +33,8 @@ Before running the migration, ensure you have the following installed and runnin
 
 1.  **Clone the Repository (or create your project):**
     ```bash
-    git clone [https://github.com/your-username/sakila-migration.git](https://github.com/your-username/sakila-migration.git)
-    cd sakila-migration
+    git clone https://github.com/IMAD0103/TP_Samih-SQL-et-NON-SQL.git
+    cd TP_Samih-SQL-et-NON-SQL
     ```
 
 2.  **Install Node.js Dependencies:**
